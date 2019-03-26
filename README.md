@@ -1,4 +1,4 @@
-# LdCms.NetCore
+# LdCmsNetCore
 
 #### 介绍
 .NetCore后台快速开发框架，由蓝点科技自主研发的一套快速开发后台基础框架、内置后台基础常用功能。
