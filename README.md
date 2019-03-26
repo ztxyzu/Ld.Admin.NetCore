@@ -12,13 +12,11 @@
 .NetCore后台快速开发框架
 
 开发技术：.NetCore 2.1 + MSSQL 2012
-
 开发工具：Visual Studio 2017
 
 安装说明：
 
 第一步：还原数据库。
-
 第二步：修改数据库链接地址。
 
 使用配置：
@@ -29,12 +27,9 @@
 
 后台管理模板使用H-ui.admin，H-ui官方网址：http://www.h-ui.net
 
-
-作者官方网址：http://www.ldcms.net
+作者官方网址：https://www.ldcms.net
 
 演示地址：http://demo.ldcms.net/admin/login?companyid=300001
-
 帐号：admin
-
 密码：admin
 
