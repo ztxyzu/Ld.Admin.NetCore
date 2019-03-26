@@ -32,3 +32,7 @@
 
 作者官方网址：http://www.ldcms.net
 
+演示地址：http://demo.ldcms.net/admin/login?companyid=300001
+帐号：admin
+密码：admin
+
